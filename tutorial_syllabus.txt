@@ -1,0 +1,3 @@
+001_gyrating macromolecule, excluded volume, immoblization, metropolis algorithm theory, DNA data fitting
+002_ising_model
+003_processing_data_and_plotting
