@@ -1,3 +1,24 @@
-001_gyrating macromolecule, excluded volume, immoblization, metropolis algorithm theory, DNA data fitting
-002_ising_model
-003_processing_data_and_plotting
+Thermodynamics of polymer solutions
+    regular solution theory
+        entropy of mixing
+        enthalpy of mixing
+    flory huggins theory
+        entropy of mixing
+        enthalpy of mixing
+    osmotic pressure
+        general osmotic pressure
+        osmotic pressure and floy huggins theory
+    phase behavior of polymer solutions
+        binodals
+        spinodals
+        chi interaction parameter
+    excluded volume
+    
+Polymer Conformations
+    Freely jointed and freely rotating chains
+    self avoiding chains
+    
+Nucleic acid secondary structure prediction
+    nearest neighbor method
+    secondary structure and nearest neighbor method
+    dilute solutions of interacting nucleic acids
